@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[52]:
-
 # Cria a classe Node, com o vértice e o o vértice adjacente a ele
 class Node(object):
     def __init__(self, vertice):
